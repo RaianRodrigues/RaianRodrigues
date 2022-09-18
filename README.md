@@ -1,8 +1,11 @@
- <h1 style="color:#535b9c">⏳Olá, meu nome é <strong>{Raian}</strong>!</h1> 
+ <!-- <h1 style="color:#535b9c">⏳Olá, meu nome é <strong>{Raian}</strong>!</h1>  -->
+ ## Hi ✌, I'm <strong>{Raian}!</strong>
+> ## Front-End Developer
+
+> ### Hello World 
+
 
 <img src = "https://i.pinimg.com/originals/c9/e8/ef/c9e8efca356e9fd2263493d78ab3737d.gif" height ="170px" width="100%">
-<h2 style="color:#a394ba">>Front-end Developer</h2>
-
 
 <img src = "https://media.giphy.com/media/ge8V1m6LFNyBg9sIHV/giphy.gif" min-width="130" height="160px" align ="left" width="135">
 <!-- Linguagens -->
