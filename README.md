@@ -3,11 +3,12 @@
 <h3 align="center">
   Front-End Developer | Code Enthusiast
 </h3>
+<br>
+<h3 align="center">
+  🚀 My Skills
+</h3>
 
-
-### 🚀 My Skills
-
-<p align="center">
+<div align="center">
 
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
@@ -15,12 +16,16 @@
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/electron/electron.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tauri/tauri.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/zustand/zustand.png"></code>
 
-</p>
+</div>
 
 ---
 
